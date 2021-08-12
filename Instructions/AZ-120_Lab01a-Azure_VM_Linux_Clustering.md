@@ -882,15 +882,15 @@ In this exercise, you will implement Azure Load Balancers to accommodate cluster
 
 1. Ensure that you can establish SSH session to both az12001a-vm0 and az12001a-vm1 via their private IP addresses (192.168.0.4 and 192.168.0.5, respectively). 
 
-1.Type the private ip of az12001a-vm0 and click on connect.
+1. Type the private ip of az12001a-vm0 and click on connect.
 
-1.Give username as **student** and password as **Pa55w.rd1234**.
+1. Give username as **student** and password as **Pa55w.rd1234**.
 
 1. Open a new putty window session.
 
-1.Type the private ip of az12001a-vm1 and click on connect.
+1. Type the private ip of az12001a-vm1 and click on connect.
 
-1.Give username as **student** and password as **Pa55w.rd1234**.
+1. Give username as **student** and password as **Pa55w.rd1234**.
 
 > **Result**: After you completed this exercise, you have provisioned Azure network resources necessary to support highly available SAP HANA deployments
 
